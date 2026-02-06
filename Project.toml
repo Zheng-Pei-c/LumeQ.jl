@@ -1,0 +1,7 @@
+name = "LumeQ"
+uuid = "7dda83c3-0307-4ce4-bc6c-f65435f72a51"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+SymPy = "24249f21-da20-56a4-8eb1-6a02cf4ae2e6"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
